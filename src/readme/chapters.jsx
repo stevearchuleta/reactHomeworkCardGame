@@ -8,9 +8,7 @@ export default function Chapters() {
       <ul>
         <li>01-start-here</li>
         <li>02-upgrade-react-version</li>
-        <li>03-using-state-hooks</li>
-        <li>04-using-effect-hooks</li>
-        <li>05-using-reducer-hooks</li>
+        <li>03-the-card-component</li>
       </ul>
     </div>
   )
