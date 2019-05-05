@@ -4,12 +4,12 @@ export default function Tech() {
   return (
     <div>
       <h3>
-        We will be using the following technologies and techniques to build our
-        feature/app:
+        The following technologies and techniques have been used to build this
+        app:
       </h3>
 
       <ul>
-        <li>React (of course)</li>
+        <li>React</li>
         <li>
           Hooks
           <ul>

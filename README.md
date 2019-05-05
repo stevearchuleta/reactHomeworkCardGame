@@ -1,10 +1,10 @@
-# ReactU Episode #29
+# Steve Archuleata Educational Tutorial for a REACT Card Memory Game - UC DAVIS / Trilogy Week 19 HW 
 
-## Building a Memory Game
+## Building a REACT Card Memory Game
 
-In today's example we will be building a memory game, where cards are displayed on the screen, face down, and as the user 'flips' them, two at a time, if there is a match, the cards stay face up. If not, they revert after a couple of seconds to face down and the game continues until the user gets all the matches.
+Building a REACT card memory game, where flower images are displayed on the screen and as the user 'flips' them, two at a time, if there is a match, the cards stay face up. If not, they revert after a couple of seconds to face down and the game continues until the user gets all the matches.
 
-### We will be using the following technologies and techniques to build our feature/app
+### The following technologies and techniques are used to build this app.
 
 - React (of course)
 - Hooks
@@ -13,7 +13,7 @@ In today's example we will be building a memory game, where cards are displayed 
 - setTimeout
 - CSS keyframes
 
-### This episode has been divided into chapters using git-banches
+### This educational tutorial has been divided into chapters using git-banches. This helps Steve Archuleta better understand the modularized build of a react app using git-branches.
 
 - [01-start-here](https://github.com/react-u/029-build-a-memory-game-using-react-hooks/tree/01-start-here)
 - [02-the-card-component](https://github.com/react-u/029-build-a-memory-game-using-react-hooks/tree/02-the-card-component)
@@ -22,6 +22,6 @@ In today's example we will be building a memory game, where cards are displayed 
 - [05-game-rules](https://github.com/react-u/029-build-a-memory-game-using-react-hooks/tree/05-game-rules)
 - [06-preload-images](https://github.com/react-u/029-build-a-memory-game-using-react-hooks/tree/06-preload-images)
 
-#### The source code for this episode can be found at
+#### The source code for this educational tutorial can be found at:
 
 [https://github.com/react-u/029-building-a-memory-game-using-react](https://github.com/react-u/029-building-a-memory-game-using-react)
