@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react'
 import Board from './components/board'
 import initializeDeck from './deck'
-
+  
 // replaces componentDidMount.  The static empty array as a second argument ensures that useEffect only gets called the first time and not on subsequent renders
 
 // {useState} feature above allows for the use of a getter-method inside an array at the top of this App function; flipped gets the state and setFlipped sets the state
@@ -30,7 +30,7 @@ export default function App() {
 
 const preloadImages = () => {
   cards.map(card => {
-    const src = `/img/${card.type}.png`
+    const src = `/img/array5/${card.type}.JPG`
     new Image().src = src
   })
 }

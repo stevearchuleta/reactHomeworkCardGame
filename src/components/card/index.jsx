@@ -26,7 +26,7 @@ export default function Card ({
         width, height
       }}
       className={flipped ? 'front' : 'back'}
-      src={flipped || solved ? `/img/${type}.png` : `/img/Mendocino-Wildflowers.jpg`} 
+      src={flipped || solved ? `/img/array5/${type}.JPG` : `/img/Mendocino-Wildflowers.jpg`} 
       />
     </div>
   </div>
