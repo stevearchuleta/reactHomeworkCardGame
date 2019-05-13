@@ -25,6 +25,7 @@ export default function App() {
 
   useEffect (() => {
     const resizeListener = window.addEventListener('resize', resizeBoard)
+    
     return () => window.removeEventListener('resize', resizeListener)
   })
 

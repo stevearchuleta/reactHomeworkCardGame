@@ -16,14 +16,16 @@ export default function Card ({
   return <div 
   className={`flip-container ${flipped ? 'flipped' : ''}`}
   style={{
-    width, height
+    width: width, 
+    height: height
   }}
   onClick={() => disabled ? null : handleClick(id)}
   >
     <div className={'flipper'}>
       <img
       style={{
-        width, height
+        width: width, 
+        height: height
       }}
       className={flipped ? 'front' : 'back'}
       src={flipped || solved ? `/img/array5/${type}.JPG` : `/img/Mendocino-Wildflowers.jpg`} 

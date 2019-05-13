@@ -12,7 +12,8 @@ export default function Board({
   solved,
  }) {
   return <div className='board'>
-            {cards.map((card) => (<Card
+            {cards.map((card) => (
+            <Card
             key={card.id}
             id={card.id}
             type={card.type}

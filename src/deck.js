@@ -14,7 +14,7 @@ function shuffle(array) {
 
 export default function initializeDeck(){
   let id = 0
-  const cards = ['IMG_3608', 'IMG_3672', 'IMG_3679', 'IMG_3686', 'IMG_3693', 'IMG_3701', 'IMG_3708', 'IMG_3716', 'Mendocino-Wildflowers'
+  const cards = ['IMG_3608', 'IMG_3672', 'IMG_3679', 'IMG_3686', 'IMG_3693', 'IMG_3701', 'IMG_3708', 'IMG_3716'
   ].reduce((acc, type) => {
   acc.push({
     id: id++,
