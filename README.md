@@ -78,7 +78,7 @@ One More Thing
 
 If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
 
-Good Luck!
+Good Luck
 
 # Steve Archuleata Educational Tutorial for a REACT Card Memory Game - UC DAVIS / Trilogy Week 19 HW 
 
@@ -96,6 +96,10 @@ Building a REACT card memory game, where flower images are displayed on the scre
 - CSS keyframes
 
 ### This educational tutorial has been divided into chapters using git-banches. This helps Steve Archuleta better understand the modularized build of a react app using git-branches.
+
+# reactHomeworkCardGame
+https://youtu.be/MLNLT_-mBA0
+
 
 - [01-start-here](https://github.com/react-u/029-build-a-memory-game-using-react-hooks/tree/01-start-here)
 - [02-the-card-component](https://github.com/react-u/029-build-a-memory-game-using-react-hooks/tree/02-the-card-component)
