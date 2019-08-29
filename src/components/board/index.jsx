@@ -30,7 +30,7 @@ export default function Board({
           </div>
         }
 
-        Board.PropTypes = {
+        Board.propTypes = {
           dimension: PropTypes.number.isRequired,
           cards: PropTypes.arrayOf(PropTypes.shape({})).isRequired,
           flipped: PropTypes.arrayOf(PropTypes.number).isRequired,

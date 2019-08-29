@@ -34,7 +34,7 @@ export default function Card ({
   </div>
 }
 
-Card.PropTypes = {
+Card.propTypes = {
   handleClick: PropTypes.func.isRequired,
   id: PropTypes.number.isRequired,
   flipped: PropTypes.bool.isRequired,
